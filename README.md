@@ -88,7 +88,7 @@ RIFT Music        bot de música para Discord
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=1gcl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=9ca3af&include_all_commits=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gcl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14on&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&include_all_commits=true&count_private=true" />
 
 </div>
 
@@ -98,7 +98,7 @@ RIFT Music        bot de música para Discord
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1gcl&bg_color=0d1117&color=9ca3af&line=e5e7eb&point=9ca3af&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=14on&bg_color=0d1117&color=9ca3af&line=e5e7eb&point=9ca3af&area=true&hide_border=true" />
 
 </div>
 
