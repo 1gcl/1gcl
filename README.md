@@ -33,7 +33,7 @@ Gosto de aprender criando projetos práticos, testando ideias, escrevendo script
 
 ---
 
-## tecnologias
+
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Gosto de aprender criando projetos práticos, testando ideias, escrevendo script
 
 ---
 
-## estudando agora
+## estudando
 
 ```txt
 > fundamentos da ciência da computação
@@ -73,7 +73,7 @@ resolução de problemas
 
 ---
 
-## projetos em destaque
+## projetos
 
 ```txt
 RIFT Bot Geral     bot multifuncional para Discord
@@ -121,7 +121,7 @@ ativar: Include private contributions on my profile
 
 ---
 
-## projetos
+
 
 Meus repositórios fazem parte da minha evolução como programador.
 
