@@ -1,93 +1,116 @@
 <div align="center">
 
-# 👾 Daniel | 1gcl
+# Daniel
 
-### Software & Cybersecurity Enthusiast
+**17y · software & cybersecurity student**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Estudante+de+programação;CS50x+Harvard;Google+Cybersecurity+via+Coursera;Python+%7C+C+%7C+JavaScript;Sempre+aprendendo+e+criando+projetos" alt="Typing SVG" />
+`CS50x Harvard` · `Google Cybersecurity - Coursera` · `Python` · `C` · `JavaScript`
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=9CA3AF&center=true&vCenter=true&width=600&lines=building+things+with+code;learning+cybersecurity;studying+CS50x;always+debugging%2C+always+improving" alt="typing animation" />
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## about
 
-Olá! Eu sou o **Daniel**, tenho **17 anos** e estou estudando programação e cibersegurança.
+```txt
+name      Daniel
+age       17
+focus     software development & cybersecurity
+learning  CS50x Harvard + Google Cybersecurity
+stack     Python, C, JavaScript, Node.js, Linux
+status    building, studying, improving
+```
 
-Atualmente estou fazendo o **CS50x de Harvard** e também o curso de **Cybersecurity do Google pela Coursera**. Gosto de aprender criando projetos práticos, mexendo com código, automações, bots e ferramentas que ajudam no dia a dia.
+I’m a student interested in programming, cybersecurity, automation and practical projects.
 
-Meu foco é evoluir como desenvolvedor e entender cada vez mais sobre segurança digital, sempre usando conhecimento de forma ética e responsável.
-
----
-
-## 🚀 Atualmente estudando
-
-* 📚 **CS50x - Harvard**
-* 🔐 **Google Cybersecurity - Coursera**
-* 🐍 **Python**
-* 💻 **C**
-* 🌐 **JavaScript**
-* 🛡️ Fundamentos de cibersegurança
-* 🤖 Bots, automações e projetos práticos
+Currently learning through **CS50x by Harvard** and the **Google Cybersecurity Certificate on Coursera**.
+I like building small tools, bots, scripts and experiments while improving my logic, code quality and security mindset.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js,nodejs,html,css,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,c,js,nodejs,html,css,linux,git,github,vscode" />
 
 </div>
 
 ---
 
-## 📌 Meus interesses
+## currently learning
 
-* Desenvolvimento de bots
-* Automações
-* Segurança da informação
-* Linux
-* Programação backend
-* Projetos open-source
-* Aprendizado prático com desafios
+```txt
+> computer science fundamentals
+> cybersecurity basics
+> Python scripting
+> C programming
+> JavaScript / Node.js
+> Linux environment
+> automation and bots
+```
 
 ---
 
-## 📊 GitHub Stats
+## interests
+
+```txt
+cybersecurity
+backend development
+automation
+discord bots
+linux
+open-source
+problem solving
+```
+
+---
+
+## github
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=1gcl&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=1gcl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=9ca3af" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gcl&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gcl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af" />
 
 </div>
 
 ---
 
-## 🔥 Sequência de contribuições
+## activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=1gcl&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=1gcl&theme=dark&hide_border=true&background=0D1117&ring=9CA3AF&fire=9CA3AF&currStreakLabel=E5E7EB" />
 
 </div>
 
 ---
 
-## 🧩 Projetos
+## projects
 
-Aqui no meu GitHub você vai encontrar projetos de estudo, bots, testes, códigos em Python, JavaScript e outras ideias que eu for desenvolvendo durante minha evolução como programador.
+Most of my repositories are part of my learning process.
+
+```txt
+some are tests
+some are experiments
+some are tools
+all of them are progress
+```
 
 ---
 
-## 🌎 Contato
+## contact
 
 <div align="center">
 
 <a href="https://github.com/1gcl">
-  <img src="https://img.shields.io/badge/GitHub-1gcl-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/github-1gcl-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -96,6 +119,8 @@ Aqui no meu GitHub você vai encontrar projetos de estudo, bots, testes, código
 
 <div align="center">
 
-### ⚡ “Aprendendo, quebrando a cabeça e evoluindo um commit por vez.”
+```txt
+"learning by building."
+```
 
 </div>
