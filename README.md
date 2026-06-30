@@ -20,7 +20,7 @@
 nome      Daniel
 idade     17
 foco      desenvolvimento de software & cibersegurança
-estudos   CS50x Harvard + Google Cybersecurity
+cursos    CS50x Harvard + Google Cybersecurity
 stack     Python, C, JavaScript, Node.js, Linux
 status    estudando, criando e evoluindo
 ```
