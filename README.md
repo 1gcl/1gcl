@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <h1>Daniel</h1>
@@ -21,14 +20,14 @@
 
 <h2>sobre mim</h2>
 
-<pre>
+```txt
 nome      Daniel
 idade     17
 foco      desenvolvimento de software & cibersegurança
 estudos   CS50x Harvard + Google Cybersecurity
 stack     Python, C, JavaScript, Node.js, Linux
 status    estudando, criando e evoluindo
-</pre>
+```
 
 Sou estudante de programação e cibersegurança, com interesse em desenvolvimento, automações, bots, Linux e segurança digital.
 
@@ -50,7 +49,7 @@ Gosto de aprender criando projetos práticos, testando ideias, escrevendo script
 
 <h2>estudando agora</h2>
 
-<pre>
+```txt
 > fundamentos da ciência da computação
 > lógica de programação
 > cibersegurança
@@ -59,13 +58,13 @@ Gosto de aprender criando projetos práticos, testando ideias, escrevendo script
 > JavaScript / Node.js
 > Linux
 > automações e bots
-</pre>
+```
 
 ---
 
 <h2>interesses</h2>
 
-<pre>
+```txt
 cibersegurança
 backend
 automação
@@ -74,16 +73,16 @@ linux
 open-source
 scripts
 resolução de problemas
-</pre>
+```
 
 ---
 
 <h2>projetos em destaque</h2>
 
-<pre>
+```txt
 RIFT Bot Geral     bot multifuncional para Discord
 RIFT Music        bot de música para Discord
-</pre>
+```
 
 ---
 
@@ -93,7 +92,7 @@ RIFT Music        bot de música para Discord
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=1gcl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=9ca3af&include_all_commits=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gcl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gcl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&include_all_commits=true&count_private=true" />
 
 </div>
 
@@ -109,21 +108,31 @@ RIFT Music        bot de música para Discord
 
 ---
 
+<h2>contribuições</h2>
+
+```txt
+contribuições públicas
+commits em repositórios disponíveis
+contribuições privadas ativadas no perfil
+```
+
+---
+
 <h2>projetos</h2>
 
-<pre>
+```txt
 RIFT Bot Geral     bot multifuncional para Discord
 RIFT Music        bot de música para Discord
-</pre>
+```
 
 ---
 
 <h2>contato</h2>
 
-<pre>
+```txt
 github    github.com/1gcl
 discord   15on
-</pre>
+```
 
 <div align="center">
 
@@ -139,8 +148,8 @@ discord   15on
 
 <div align="center">
 
-<pre>
+```txt
 "aprendendo construindo."
-</pre>
+```
 
 </div>
